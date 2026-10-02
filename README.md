@@ -47,7 +47,7 @@ python main.py
 npm start
 ```
 
-## 🎯 Usage
+## Usage
 Briefly explain the primary command or user workflow here. For example:
 > Run `python main.py --analyze data.csv` to process your first dataset and generate an automated AI report.
 
